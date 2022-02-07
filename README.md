@@ -1,5 +1,5 @@
 # Layouts
-Just a repository where I hope to display some of the layouts I have worked on either on my freetime or during courses. 
+Just a repository where I hope to display some of the layouts I have worked on either on my freetime or during courses. All layouts are created with Figma, but I have used Adobe XD before as well. Files contain a pdf of the layouts, and in some cases the .fig file as well.
 
 ## Appropassi
 During COMP.SE.610 Software Engineering Project 1, our group created an application for Appro participants to use instead of the old pen and paper version.
