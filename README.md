@@ -3,8 +3,8 @@ Just a repository where I hope to display some of the layouts I have worked on e
 
 ## Appropassi
 During COMP.SE.610 Software Engineering Project 1, our group created an application for Appro participants to use instead of the old pen and paper version.
-I worked on the frontend team, with whom we created layouts and later implemented them in with React/MaterialUI.
+I worked on the frontend team, with whom we created layouts and later implemented them with React/MaterialUI.
 
 ## Beerpong App
-A mobile layout I am working on to help my friends keep track of who is winning in their ongoing beerpong tournaments. Currently just for two players,
-but in the future I would like to make it so anyone can use it. 
+A layout for a mobile site I am working on to help my friends keep track of who is winning in their ongoing beerpong tournaments. Currently just for two players,
+but in the future I would like to make it so anyone can use it. Wanted to keep it nice and simple, to make it easy to add results inbetween games.
