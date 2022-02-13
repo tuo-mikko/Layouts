@@ -7,4 +7,4 @@ I worked on the frontend team, with whom we created layouts and later implemente
 
 ## Beerpong App
 A layout for a mobile site I am working on to help my friends keep track of who is winning in their ongoing beerpong tournaments. Currently just for two players,
-but in the future I would like to make it so anyone can use it. Wanted to keep it nice and simple, to make it easy to add results inbetween games.
+but in the future I would like to make it so anyone can use it. Wanted to keep it nice and simple, to make it easy to add results inbetween games. I will probably first implement the basic view and addition modal, and then start working on the statistics page.
