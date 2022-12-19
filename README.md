@@ -11,3 +11,7 @@ A layout for a mobile site I am working on to help my friends keep track of who 
 but in the future I would like to make it so anyone can use it. Wanted to keep it nice and simple, to make it easy to add results inbetween games. I will probably first implement the basic view and addition modal, and then start working on the statistics page.
 
 Project repo: https://github.com/tuo-mikko/Beerpong
+
+### Ratikkavahti
+
+I often find myself checking the arrival times of the tramway near my home in Tampere. This takes a few clicks, so I thought that making an app that easily shows the arrival times of the tramstop near you would be usefull. 
